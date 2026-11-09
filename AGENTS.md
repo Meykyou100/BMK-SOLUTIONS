@@ -28,3 +28,5 @@ use the editor.
   own key and store it in Secrets.
 - **Secrets.** Lovable manages them. Do not put secret values in the repo.
 <!-- LOVABLE:END -->
+
+- Structure the BMK SOLUTIONS showcase as one TanStack home route with navigable section IDs; the supplied brief requests a single-page professional website.
